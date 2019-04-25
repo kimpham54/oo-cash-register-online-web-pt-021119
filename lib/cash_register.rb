@@ -3,12 +3,12 @@ class CashRegister
 
 def initialize(total=0, discount=20)
   @total = total
-  @discount = discount
+  discount
 end
 
-def discount
-  @discount
-end
+# def discount
+#   @discount
+# end
 
 def total
   @total

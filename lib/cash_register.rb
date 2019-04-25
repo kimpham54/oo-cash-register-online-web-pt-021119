@@ -6,9 +6,9 @@ def initialize(total=0, discount=20)
   discount
 end
 
-# def discount
-#   @discount
-# end
+def discount
+  @discount
+end
 
 def total
   @total

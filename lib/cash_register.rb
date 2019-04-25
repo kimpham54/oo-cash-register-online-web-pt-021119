@@ -7,9 +7,6 @@ def initialize(discount)
 end
 
 
-def total
-end
-
 def add_item
 end
 
